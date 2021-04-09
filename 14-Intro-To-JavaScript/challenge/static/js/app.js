@@ -12,3 +12,5 @@ tableData.forEach((ufoDatetime) => {
     cell.text(value);
   });
 });
+
+let date = "1/1/20";

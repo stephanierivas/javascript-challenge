@@ -18,3 +18,6 @@ let date = "1/1/20";
 //select button
 var button = d3.select("#filter-btn");
 
+
+//create event handlers for clicking the button
+button.on("click", runEnter);
